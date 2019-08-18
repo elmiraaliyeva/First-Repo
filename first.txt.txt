@@ -2,6 +2,3 @@ proverka soxraneniya
 izmeneniy
 tretya novaya stroka
 chetvertaya novaya stroka
-
-final stroki 
-_______________________________
